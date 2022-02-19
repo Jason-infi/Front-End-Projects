@@ -1,0 +1,65 @@
+body {
+  font-family: "PT Sans";
+  background-color: #f9f9f9;
+}
+#image {
+  height: auto;
+  width: 50vw;
+  display: block;
+  margin: 0 auto;
+  padding: 2em;
+}
+#title {
+  font-family: "PT Sans", sans-serif;
+  font-size: 3rem;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 0.5em;
+}
+header p {
+  text-align: center;
+  padding-bottom: 1em;
+}
+#img-caption {
+  text-align: center;
+  padding-bottom: 1em;
+  font-size: 1.1em;
+}
+header {
+  background-color: #cdf0ea;
+}
+
+section p {
+  text-align: center;
+}
+#tribute-info ul {
+  display: table;
+  margin: 0 auto;
+  text-align: justify;
+  font-size: larger;
+  line-height: 2em;
+  max-width: 600px;
+}
+#tribute-content {
+  padding: 1em;
+}
+section {
+  background-color: #cdf0ea;
+  text-align: center;
+  padding: 2em;
+}
+footer {
+  text-align: center;
+}
+#quote {
+  padding: 1em;
+  margin: 0px auto;
+  text-align: center;
+  font-style: italic;
+  background-color: #f7dbf0;
+  p {
+    max-width: 600px;
+    margin: 0px auto;
+    padding: 1em;
+  }
+}
